@@ -7,6 +7,7 @@ public class CalcSwitchCase {
         calc(5,2,'?');
     }
 /*добавили комментарий */
+/*добавили комментарий 2 */
     static double calc(double paramA, double paramB, char operation){
         double result = 0;
         switch(operation){
