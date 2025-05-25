@@ -8,6 +8,7 @@ public class CalcSwitchCase {
     }
 /*добавили комментарий */
 /*добавили комментарий 2 */
+/*добавили комментарий 3 */
     static double calc(double paramA, double paramB, char operation){
         double result = 0;
         switch(operation){
